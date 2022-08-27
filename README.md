@@ -1,6 +1,6 @@
-<h2 align="center">Hello world 🌎! Welcome to my page, I’m Guilherme Reis (🇧🇷):</h2>
-
-###
+<h1 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&pause=1000&color=BD24F7&center=true&vCenter=true&width=435&lines=Hello+World!+%F0%9F%8C%8E;Welcome+to+my+page%2C+I%E2%80%99m+Guilherme" alt="Typing SVG" /></a>
+</h1>
 
 <div align="left">
   <h3>About me:</h3>
@@ -57,6 +57,6 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/g-rmc/g-rmc/output/snake.svg" alt="Snake animation" />
+<img align="center" src="https://raw.githubusercontent.com/g-rmc/g-rmc/output/snake.svg" alt="Snake animation" />
 
 ###
