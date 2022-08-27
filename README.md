@@ -57,6 +57,6 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/g-rmc/g-rmc/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://github.com/g-rmc/g-rmc/blob/output/snake.svg" alt="Snake animation" />
 
 ###
