@@ -57,6 +57,8 @@
 
 <br clear="both">
 
-<img align="center" src="https://raw.githubusercontent.com/g-rmc/g-rmc/output/snake.svg" alt="Snake animation" />
+![github contribution grid snake animation](https://raw.githubusercontent.com/g-rmc/g-rmc/output/snake.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/g-rmc/g-rmc/output/snake.svg#gh-light-mode-only)
+
 
 ###
