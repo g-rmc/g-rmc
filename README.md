@@ -57,8 +57,7 @@
 
 <br clear="both">
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/g-rmc/g-rmc/output/snake.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/g-rmc/g-rmc/output/snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/g-rmc/g-rmc/output/snake.svg#gh-light-mode-only)
-
 
 ###
