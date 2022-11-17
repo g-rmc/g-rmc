@@ -4,7 +4,7 @@
 
 <div align="left">
   <h3>About me:</h3>
-  <p>• 🏢 A full stack developer (in progress) that love buildings and an architect that love programs </p>
+  <p>• 🏢 A full stack developer that love buildings and an architect that love programs </p>
   <p>• 🏳️‍🌈 Embrace LGBT+ community </p>
   <p>• 🎓 Already working with Javascript and React from Front End </p>
   <p>• 📚 Always learning, at the moment about API and Back End </p>
@@ -38,6 +38,10 @@
   </a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
+  </a>
+   </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" width="42" alt="typescript logo"  />
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
