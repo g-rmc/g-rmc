@@ -4,10 +4,10 @@
 
 <div align="left">
   <h3>About me:</h3>
-  <p>• 🏢 A full stack developer that love buildings and an architect that love programs </p>
+  <p>• 🏢 A full stack developer that love buildings and an architect that love codes </p>
   <p>• 🏳️‍🌈 Embrace LGBT+ community </p>
-  <p>• 🎓 Already working with Javascript and React from Front End </p>
-  <p>• 📚 Always learning, at the moment about API and Back End </p>
+  <p>• 🎓 Already working with Javascript, TypeScript, React, Prisma</p>
+  <p>• 📚 Always learning, at the moment about Docker, AWS </p>
   <p>• 🎢️‍ Addicted to rollercoasters </p>
 </div>
 
@@ -28,6 +28,7 @@
 
 
 ###
+
 
 <div align="left">
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank" rel="noreferrer">
@@ -58,14 +59,17 @@
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="42" alt="postgresql logo"  />
   </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" width="42" alt="docker logo"  />
+  </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="vscode logo"  />
   </a>
   <a href="https://trello.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" width="42" alt="trello logo"  />
   </a>
-  <a href="https://slack.com/intl/pt-br/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" width="42" alt="slack logo"  />
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="42" alt="figma logo"  />
   </a>
 </div>
 
