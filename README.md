@@ -6,8 +6,8 @@
   <h3>About me:</h3>
   <p>• 🏢 A full stack developer that love buildings and an architect that love codes </p>
   <p>• 🏳️‍🌈 Embrace LGBT+ community </p>
-  <p>• 🎓 Already working with Javascript, TypeScript, React, Prisma</p>
-  <p>• 📚 Always learning, at the moment about Docker, AWS </p>
+  <p>• 🎓 Already working with JS, TS, React, Node, Next, Nest</p>
+  <p>• 📚 Always learning... </p>
   <p>• 🎢️‍ Addicted to rollercoasters </p>
 </div>
 
@@ -87,12 +87,5 @@
 </div>
 
 </br>
-
-###
-
-<br clear="both">
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/g-rmc/g-rmc/output/snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/g-rmc/g-rmc/output/snake.svg#gh-light-mode-only)
 
 ###
